@@ -31,3 +31,7 @@ function gameSetup()
     goodsBag.takeObject({position=goodsSquare.getPosition()})
   end
 end
+
+function testgit()
+
+end
